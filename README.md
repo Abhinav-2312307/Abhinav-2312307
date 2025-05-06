@@ -54,27 +54,39 @@
 
 ## 📌 Highlight Projects
 
-### 🔭 [Map My PSIT](https://github.com/Abhinav-2312307/Map-My-PSIT)
-> 🚶‍♂️ Real-time campus navigation web app designed for PSIT students.  
-> 🧭 Features include geolocation, scaled vector maps, and building overlays.
+### ⚖️ [JusticeAlly](https://justice-ally.vercel.app/)
+> 📜 Simplifies legal documents and predicts IPC relevance using ML.  
+> ⚙️ Assists users with categorized case analysis and legal recommendations.
 
 ---
 
-### 🖨️ [PrintMyPagePSIT](https://github.com/Abhinav-2312307/PrintMyPagePSIT)
+### 🖨️ [PrintMyPagePSIT](https://print-my-page-psit.vercel.app/)
 > 🧾 A streamlined print-order system where students can upload documents, track orders, and pick up prints.  
 > 🔧 Built with Node.js, email API, and a clean frontend UI.
 
 ---
 
-### 🔇 [A Silent Voice](https://github.com/Abhinav-2312307/A-Silent-Voice)
+### 🔇 [A Silent Voice](coming soon)
 > ✋ Bridging communication for the speech and hearing impaired.  
 > 🤖 Converts sign language into text/audio using ML and computer vision.
 
 ---
 
-### ⚖️ [LegalEase](https://github.com/Abhinav-2312307/LegalEase)
-> 📜 Simplifies legal documents and predicts IPC relevance using ML.  
-> ⚙️ Assists users with categorized case analysis and legal recommendations.
+### 🔭 [Map My PSIT](https://print-my-page-psit.vercel.app/)
+> 🚶‍♂️ Real-time campus navigation web app designed for PSIT students.  
+> 🧭 Features include geolocation, scaled vector maps, and building overlays.
+
+---
+
+### 🖼️ [Image Encryptor](https://github.com/Abhinav-2312307/Image-Encryptor)
+> 🔒 A secure image encryption and decryption system using custom algorithms.  
+> 🧠 Protects sensitive visual data with pixel manipulation, hashing, and key-based decoding.
+
+---
+
+### ✈️ [TravelAI](https://github.com/Abhinav-2312307/TravelAI)
+> 🌍 AI-powered travel recommendation engine for smart itinerary planning.  
+> 📌 Suggests destinations, routes, and budgets using NLP and real-time data analysis.
 
 ---
 
@@ -105,10 +117,21 @@
 
 
 
-📊 GitHub Stats
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=midnight-purple&count_private=true" width="48%"/> <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav-2312307&theme=midnight-purple" width="48%"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-2312307&theme=midnight_dark" /> </p>
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=midnight-purple&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav-2312307&theme=midnight-purple" width="48%" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-2312307&theme=midnight_dark" alt="GitHub Summary" />
+</p>
+
 📈 LeetCode Stats
 <p align="center"> <img src="https://leetcard.jacoblin.cool/lucifer_debug?theme=dark&font=Karla&ext=contest" /> </p>
+
+
 📫 Contact Me
 📧 Email: 2k23.cs2312307@gmail.com
 
