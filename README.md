@@ -143,9 +143,7 @@
 
 📈 LeetCode Stats
 <p align="center"> <img src="https://leetcard.jacoblin.cool/lucifer_debug?theme=dark&font=Karla&ext=contest" /> </p>
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/lucifer_debug?theme=dark" alt="LeetCode Stats" />
-</p>
+
 
 
 📫 Contact Me
