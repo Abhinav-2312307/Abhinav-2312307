@@ -52,34 +52,57 @@
 
 
 
-📌 Highlight Projects
-🔭 Map My PSIT
-Realtime campus navigation web-app for PSIT students with geolocation & scaled maps.
+## 📌 Highlight Projects
 
-🖨️ PrintMyPagePSIT
-Upload and order document prints online with pickup tracking. Powered by Node + Email API.
+### 🔭 [Map My PSIT](https://github.com/Abhinav-2312307/Map-My-PSIT)
+> 🚶‍♂️ Real-time campus navigation web app designed for PSIT students.  
+> 🧭 Features include geolocation, scaled vector maps, and building overlays.
 
-🔇 A Silent Voice
-Translating sign language to text/audio for the speech and hearing impaired.
+---
 
-⚖️ LegalEase
-Machine Learning powered legal document simplifier and IPC advisor.
+### 🖨️ [PrintMyPagePSIT](https://github.com/Abhinav-2312307/PrintMyPagePSIT)
+> 🧾 A streamlined print-order system where students can upload documents, track orders, and pick up prints.  
+> 🔧 Built with Node.js, email API, and a clean frontend UI.
 
-🌱 Currently Learning
-Japanese (Beginner – N5 Level)
+---
 
-Machine Learning / Deep Learning
+### 🔇 [A Silent Voice](https://github.com/Abhinav-2312307/A-Silent-Voice)
+> ✋ Bridging communication for the speech and hearing impaired.  
+> 🤖 Converts sign language into text/audio using ML and computer vision.
 
-Advanced Tailwind and Framer Motion
+---
 
-Public Speaking & Leadership
+### ⚖️ [LegalEase](https://github.com/Abhinav-2312307/LegalEase)
+> 📜 Simplifies legal documents and predicts IPC relevance using ML.  
+> ⚙️ Assists users with categorized case analysis and legal recommendations.
 
-💻 Coding Profiles
-🟨 LeetCode: AbhinavSahu07
+---
 
-🌐 GitHub: @abhinavsahu07
+## 🌱 Currently Learning
+- 🇯🇵 Japanese Language (Beginner – JLPT N5 Level)
+- 🤖 Machine Learning & Deep Learning
+- 🎨 Advanced Tailwind CSS & Framer Motion
+- 🎤 Public Speaking & Leadership
 
-🖇️ LinkedIn: Abhinav Sahu 
+---
+
+## 💻 Coding & Online Profiles
+
+<p align="center">
+  <a href="https://leetcode.com/u/lucifer_debug/">
+    <img src="https://img.shields.io/badge/LeetCode-lucifer__debug-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
+  </a>
+  <a href="https://github.com/Abhinav-2312307">
+    <img src="https://img.shields.io/badge/GitHub-Abhinav--2312307-black?style=flat-square&logo=github" alt="GitHub Profile" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhinav-sahu-865a01297/">
+    <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Sahu-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile" />
+  </a>
+  <a href="https://abhinav-sahu-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=vercel" alt="Portfolio Website" />
+  </a>
+</p>
+
 
 
 📊 GitHub Stats
