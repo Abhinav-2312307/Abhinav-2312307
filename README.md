@@ -115,7 +115,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&theme=dracula" alt="GitHub Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=midnight-dark&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=dark&count_private=true" width="48%" alt="GitHub Stats" />
 
 </p>
 
