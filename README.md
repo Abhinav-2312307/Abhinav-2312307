@@ -115,13 +115,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&theme=dracula" alt="GitHub Top Languages" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=midnight-purple&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.demolab.com?user=Abhinav-2312307&theme=midnight-purple" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=midnight-dark&count_private=true" width="48%" alt="GitHub Stats" />
+
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-2312307&theme=midnight_dark" alt="GitHub Summary" />
-</p>
+
 
 
 📈 LeetCode Stats
