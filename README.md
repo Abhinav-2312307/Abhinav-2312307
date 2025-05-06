@@ -91,8 +91,9 @@
 > 🧭 Features include geolocation, scaled vector maps, and building overlays.
 
 ---
-```ymal
+
 ### 🌱 Currently Learning
+```ymal
 - 🇯🇵 Japanese Language (Beginner – JLPT N5 Level)
 - 🤖 Machine Learning & Deep Learning (scikit-learn, pandas, NumPy)
 - 🧠 AI Tools Integration (Text & Image Models)
