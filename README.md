@@ -46,40 +46,36 @@
 
 ---
 
-### 📌 Highlight Projects
+## 📌 Highlight Projects
 
-## 🔇 [A Silent Voice](coming soon)
+### 🔇 [A Silent Voice](coming soon)
 > ✋ Bridging communication for the speech and hearing impaired.  
 > 🤖 Converts sign language into text/audio using ML and computer vision.
 
-## ⚖️ [JusticeAlly](https://justice-ally.vercel.app/)
+### ⚖️ [JusticeAlly](https://justice-ally.vercel.app/)
 > 📜 Simplifies legal documents and predicts IPC relevance using ML.  
 > ⚙️ Assists users with categorized case analysis and legal recommendations.
 
 
-## 🖼️ [Image Encryptor](https://github.com/Abhinav-2312307/Image-Encryptor)
+### 🖼️ [Image Encryptor](https://github.com/Abhinav-2312307/Image-Encryptor)
 > 🔒 A secure image encryption and decryption system using custom algorithms.  
 > 🧠 Protects sensitive visual data with pixel manipulation, hashing, and key-based decoding.
 
 
-## ✈️ [TravelAI](https://github.com/Abhinav-2312307/TravelAI)
+### ✈️ [TravelAI](https://github.com/Abhinav-2312307/TravelAI)
 > 🌍 AI-powered travel recommendation engine for smart itinerary planning.  
 > 📌 Suggests destinations, routes, and budgets using NLP and real-time data analysis.
 
 
-## 🖨️ [PrintMyPagePSIT](https://print-my-page-psit.vercel.app/)
+### 🖨️ [PrintMyPagePSIT](https://print-my-page-psit.vercel.app/)
 > 🧾 A streamlined print-order system where students can upload documents, track orders, and pick up prints.  
 > 🔧 Built with Node.js, email API, and a clean frontend UI.
 
----
-
-## 🔭 [Map My PSIT](https://print-my-page-psit.vercel.app/)
+### 🔭 [Map My PSIT](https://print-my-page-psit.vercel.app/)
 > 🚶‍♂️ Real-time campus navigation web app designed for PSIT students.  
 > 🧭 Features include geolocation, scaled vector maps, and building overlays.
 
----
-
-### 🌱 Currently Learning
+## 🌱 Currently Learning
 ```ymal
 - 🇯🇵 Japanese Language (Beginner – JLPT N5 Level)
 - 🤖 Machine Learning & Deep Learning (scikit-learn, pandas, NumPy)
