@@ -17,9 +17,9 @@
 🏆 Rank 1 Winner - GDGoC Full Stack Challenge
 🌍 Based in: Kanpur, India
 ```
-## 🧰 Languages & Tools
+### 🧰 Languages & Tools
 
-### 💻 Languages
+## 💻 Languages
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white)
@@ -27,7 +27,7 @@
 
 ---
 
-### 🌐 Web & UI
+## 🌐 Web & UI
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
@@ -36,7 +36,7 @@
 
 ---
 
-### 🛠 Backend & Database
+## 🛠 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
@@ -44,7 +44,7 @@
 
 ---
 
-### 🔧 Tools & Platforms
+## 🔧 Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code)
@@ -54,39 +54,39 @@
 
 
 
-## 📌 Highlight Projects
+### 📌 Highlight Projects
 
-### 🔇 [A Silent Voice](coming soon)
+## 🔇 [A Silent Voice](coming soon)
 > ✋ Bridging communication for the speech and hearing impaired.  
 > 🤖 Converts sign language into text/audio using ML and computer vision.
 
 ---
 
-### ⚖️ [JusticeAlly](https://justice-ally.vercel.app/)
+## ⚖️ [JusticeAlly](https://justice-ally.vercel.app/)
 > 📜 Simplifies legal documents and predicts IPC relevance using ML.  
 > ⚙️ Assists users with categorized case analysis and legal recommendations.
 
 ---
 
-### 🖼️ [Image Encryptor](https://github.com/Abhinav-2312307/Image-Encryptor)
+## 🖼️ [Image Encryptor](https://github.com/Abhinav-2312307/Image-Encryptor)
 > 🔒 A secure image encryption and decryption system using custom algorithms.  
 > 🧠 Protects sensitive visual data with pixel manipulation, hashing, and key-based decoding.
 
 ---
 
-### ✈️ [TravelAI](https://github.com/Abhinav-2312307/TravelAI)
+## ✈️ [TravelAI](https://github.com/Abhinav-2312307/TravelAI)
 > 🌍 AI-powered travel recommendation engine for smart itinerary planning.  
 > 📌 Suggests destinations, routes, and budgets using NLP and real-time data analysis.
 
 ---
 
-### 🖨️ [PrintMyPagePSIT](https://print-my-page-psit.vercel.app/)
+## 🖨️ [PrintMyPagePSIT](https://print-my-page-psit.vercel.app/)
 > 🧾 A streamlined print-order system where students can upload documents, track orders, and pick up prints.  
 > 🔧 Built with Node.js, email API, and a clean frontend UI.
 
 ---
 
-### 🔭 [Map My PSIT](https://print-my-page-psit.vercel.app/)
+## 🔭 [Map My PSIT](https://print-my-page-psit.vercel.app/)
 > 🚶‍♂️ Real-time campus navigation web app designed for PSIT students.  
 > 🧭 Features include geolocation, scaled vector maps, and building overlays.
 
