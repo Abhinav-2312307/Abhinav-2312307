@@ -128,7 +128,9 @@
 
 
 ## 📊 GitHub Stats
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&theme=dracula" alt="GitHub Top Languages" />
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=midnight-purple&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.demolab.com?user=Abhinav-2312307&theme=midnight-purple" width="48%" alt="GitHub Streak" />
@@ -141,6 +143,9 @@
 
 📈 LeetCode Stats
 <p align="center"> <img src="https://leetcard.jacoblin.cool/lucifer_debug?theme=dark&font=Karla&ext=contest" /> </p>
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/lucifer_debug?theme=dark" alt="LeetCode Stats" />
+</p>
 
 
 📫 Contact Me
@@ -155,6 +160,7 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Abhinav-2312307&label=Profile+Views&color=0e75b6&style=flat" alt="Abhinav-2312307" /> 
 </p>
+
 
 
 💬 “Coding is the bridge between ideas and innovation — I'm here to build both.”
