@@ -127,8 +127,6 @@
 
 ## 📊 GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=midnight-purple&count_private=true" width="48%" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.demolab.com?user=Abhinav-2312307&theme=midnight-purple" width="48%" alt="GitHub Streak" />
