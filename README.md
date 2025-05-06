@@ -32,13 +32,15 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 
 ---
 
 ### 🛠 Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
 
 ---
 
@@ -54,27 +56,15 @@
 
 ## 📌 Highlight Projects
 
-### ⚖️ [JusticeAlly](https://justice-ally.vercel.app/)
-> 📜 Simplifies legal documents and predicts IPC relevance using ML.  
-> ⚙️ Assists users with categorized case analysis and legal recommendations.
-
----
-
-### 🖨️ [PrintMyPagePSIT](https://print-my-page-psit.vercel.app/)
-> 🧾 A streamlined print-order system where students can upload documents, track orders, and pick up prints.  
-> 🔧 Built with Node.js, email API, and a clean frontend UI.
-
----
-
 ### 🔇 [A Silent Voice](coming soon)
 > ✋ Bridging communication for the speech and hearing impaired.  
 > 🤖 Converts sign language into text/audio using ML and computer vision.
 
 ---
 
-### 🔭 [Map My PSIT](https://print-my-page-psit.vercel.app/)
-> 🚶‍♂️ Real-time campus navigation web app designed for PSIT students.  
-> 🧭 Features include geolocation, scaled vector maps, and building overlays.
+### ⚖️ [JusticeAlly](https://justice-ally.vercel.app/)
+> 📜 Simplifies legal documents and predicts IPC relevance using ML.  
+> ⚙️ Assists users with categorized case analysis and legal recommendations.
 
 ---
 
@@ -90,15 +80,33 @@
 
 ---
 
-## 🌱 Currently Learning
-- 🇯🇵 Japanese Language (Beginner – JLPT N5 Level)
-- 🤖 Machine Learning & Deep Learning
-- 🎨 Advanced Tailwind CSS & Framer Motion
-- 🎤 Public Speaking & Leadership
+### 🖨️ [PrintMyPagePSIT](https://print-my-page-psit.vercel.app/)
+> 🧾 A streamlined print-order system where students can upload documents, track orders, and pick up prints.  
+> 🔧 Built with Node.js, email API, and a clean frontend UI.
 
 ---
 
-## 💻 Coding & Online Profiles
+### 🔭 [Map My PSIT](https://print-my-page-psit.vercel.app/)
+> 🚶‍♂️ Real-time campus navigation web app designed for PSIT students.  
+> 🧭 Features include geolocation, scaled vector maps, and building overlays.
+
+---
+
+### 🌱 Currently Learning
+- 🇯🇵 Japanese Language (Beginner – JLPT N5 Level)
+- 🤖 Machine Learning & Deep Learning (scikit-learn, pandas, NumPy)
+- 🧠 AI Tools Integration (Text & Image Models)
+- 🎨 Advanced Tailwind CSS & Framer Motion for UI/UX
+- 🛰️ Geolocation & Real-time Map Scaling
+- 🗃️ MongoDB & SQL for Scalable Data Storage
+- 📬 Email APIs & Notification Systems
+- 🛠️ Backend with Node.js, Express, and API Security
+- 🔌 Prisma & RESTful API Structuring
+- 🎤 Public Speaking & Leadership Development
+
+---
+
+### 💻 Coding & Online Profiles
 
 <p align="center">
   <a href="https://leetcode.com/u/lucifer_debug/">
@@ -119,14 +127,17 @@
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=midnight-purple&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Abhinav-2312307&theme=midnight-purple" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.demolab.com?user=Abhinav-2312307&theme=midnight-purple" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Abhinav-2312307&theme=midnight_dark" alt="GitHub Summary" />
 </p>
+
 
 📈 LeetCode Stats
 <p align="center"> <img src="https://leetcard.jacoblin.cool/lucifer_debug?theme=dark&font=Karla&ext=contest" /> </p>
