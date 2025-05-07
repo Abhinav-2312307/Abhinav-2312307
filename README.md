@@ -130,8 +130,6 @@
 📫 Contact Me
 📧 Email: 2k23.cs2312307@gmail.com
 
-📱 Phone: +91 9793404007
-
 🏠 Location: Kanpur, Uttar Pradesh, India
 
 ☁️ Portfolio: https://abhinav-sahu-portfolio.vercel.app/
