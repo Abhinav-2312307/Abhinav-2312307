@@ -142,8 +142,7 @@
 
 💬 “Coding is the bridge between ideas and innovation — I'm here to build both.”
 — Abhinav Sahu
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=200&section=footer&text=Thanks%20for%20visiting!&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=ffffff&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=FFFFFF&animation=fadeIn&desc=Come%20Back%20Soon!&descSize=20&descAlign=50&descAlignY=70" />
 
- 
 
 
