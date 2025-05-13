@@ -132,7 +132,7 @@
 
 🏠 Location: Kanpur, Uttar Pradesh, India
 
-☁️ Portfolio: https://abhinav-sahu-portfolio.vercel.app/
+☁️ Portfolio: https://portfolio-abhinavsahu.vercel.app/
 
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Abhinav-2312307&label=Profile+Views&color=0e75b6&style=flat" alt="Abhinav-2312307" /> 
