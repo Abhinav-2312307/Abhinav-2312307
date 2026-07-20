@@ -1,151 +1,496 @@
-<h1 align="center">Hi 👋, I'm Abhinav Sahu</h1>
-<h3 align="center">👨‍💻 Developer | 💡 Innovator | 🧠 ML Explorer | 🌐 Web Enthusiast</h3>
+<!-- ═══════════════════════════════════════════════════════════════════════════════
+     ⚔️  ABHINAV SAHU — GitHub Profile README
+     ═══════════════════════════════════════════════════════════════════════════════
+     Theme:    Dark Cinematic — inspired by Attack on Titan & Berserk aesthetics
+     Palette:  Obsidian Black (#0d1117) · Blood Crimson (#E63946) · Ash Silver (#C9D1D9)
+               Ember (#FF6B35) · Bone White (#F1FAEE) · Steel (#8B949E)
+     Mood:     Dark atmosphere · Crimson accents · Military precision · Elegant terror
+     ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ HEADER BANNER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,30:1a1a2e,60:16213e,100:E63946&height=200&text=ABHINAV%20SAHU&fontColor=F1FAEE&fontSize=50&fontAlignY=45&desc=%E2%9A%94%EF%B8%8F%20Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Explorer&descSize=16&descAlignY=70&descColor=8B949E&animation=fadeIn&stroke=E63946&strokeWidth=1" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ TYPING INTRO ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00FFA1&center=true&vCenter=true&multiline=true&width=700&height=100&lines=I'm+a+CS+Undergrad+(PSIT+2023-27);Passionate+about+Tech%2C+Code+and+Building+Solutions.;Let%E2%80%99s+Build+Something+Awesome+Together!+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1500&color=E63946&center=true&vCenter=true&repeat=true&width=700&height=40&lines=%E3%80%8C+Those+who+dare+to+build%2C+shape+the+world+%E3%80%8D" alt="Typing SVG" />
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=2500&pause=800&color=8B949E&center=true&vCenter=true&repeat=true&width=600&height=25&lines=CS+Undergrad+%40+PSIT+Kanpur+%7C+Class+of+2027;Full+Stack+Developer+%7C+ML+Explorer+%7C+Innovator;Turning+caffeine+%26+curiosity+into+code" alt="Subtitle" />
+</p>
 
-## 💫 About Me
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ QUICK LINKS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-```yaml
-🎓 B.Tech in Computer Science (PSIT Kanpur | 2023–2027)
-🚀 Projects: Web Apps | AI Models | Campus Tools
-🧠 Interests: Full Stack Dev, ML/AI, Human-AI Interfaces
-👨‍💻 Developer at Ignitia Web Team (Junior Frontend Dev)
-🏆 Rank 1 Winner - GDGoC Full Stack Challenge
-🌍 Based in: Kanpur, India
+<p align="center">
+  <a href="https://abhinav-sahu-portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-F1FAEE?style=for-the-badge&logo=vercel&logoColor=0d1117" alt="Portfolio" />
+  </a>&nbsp;
+  <a href="https://www.linkedin.com/in/abhinav-sahu-865a01297/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>&nbsp;
+  <a href="https://leetcode.com/u/lucifer_debug/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d1117" alt="LeetCode" />
+  </a>&nbsp;
+  <a href="mailto:2k23.cs2312307@gmail.com">
+    <img src="https://img.shields.io/badge/Email-E63946?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abhinav-2312307&label=Scouts+Arrived&color=E63946&style=flat-square&labelColor=0d1117" alt="Profile Views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/Abhinav-2312307?label=Comrades&style=flat-square&color=C9D1D9&labelColor=0d1117&logo=github&logoColor=C9D1D9" alt="Followers" />
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ TACTICAL DOSSIER ━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">⚔️ T A C T I C A L &nbsp; D O S S I E R</h2>
+
+<br/>
+
+<table align="center">
+<tr>
+<td width="55%" valign="top">
+
 ```
-## 🛠️ Tech Stack
+╔══════════════════════════════════════════╗
+║  OPERATIVE : Abhinav Sahu                ║
+║  CALLSIGN  : lucifer_debug               ║
+║  CLASS     : Full Stack Dev / ML Scout   ║
+║  UNIT      : PSIT Kanpur (2023–2027)     ║
+║  DIVISION  : Computer Science & Eng.     ║
+║  REGION    : Kanpur, India               ║
+║  STATUS    : ██████████████░░ ACTIVE     ║
+╚══════════════════════════════════════════╝
+```
 
-### 💻 Languages
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**`> MISSION LOG :`**
 
-### 🌐 Web & UI
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+- ⚔️ Building **real-world products** — from AI legal tools to campus utility apps
+- 🧠 Exploring **Machine Learning × Web Development** convergence
+- 🛡️ Junior Frontend Dev at **Ignitia Web Team**
+- 🏆 **Rank 1 Winner** — GDGoC Full Stack Challenge
+- 🇯🇵 Studying **Japanese** (JLPT N5)
+- ⚡ *Debugging method: lo-fi beats + dark mode = "vibe debugging"*
 
-### 🔧 Backend & DB
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+</td>
+<td width="45%" align="center" valign="top">
 
-### 🧰 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<br/>
 
+**`> COMBAT STATS :`**
 
----
+<br/>
 
-## 📌 Highlight Projects
+| Skill | Class | Mastery |
+|:------|:----:|:--------:|
+| ⚔️ Frontend Engineering | `Elite` | ████████░░ 80% |
+| 🛡️ Backend Engineering | `Veteran` | ███████░░░ 70% |
+| 🧠 AI & Machine Learning | `Strategist` | ██████░░░░ 60% |
+| ⚡ DSA & Competitive Coding | `Elite` | ████████░░ 80% |
+| 🎨 UI / UX Craftsmanship | `Veteran` | ███████░░░ 70% |
+| ☁️ Cloud & DevOps | `Apprentice` | █████░░░░░ 50% |
+| 🗄️ Database Engineering | `Veteran` | ███████░░░ 70% |
+| 🔥 Problem Solving | `Elite` | █████████░ 90% |
+| 🏰 System Design | `Strategist` | ██████░░░░ 60% |
+| 🤝 Team Leadership | `Veteran` | ████████░░ 80% |
 
-### 🔇 [A Silent Voice](coming soon)
-> ✋ Bridging communication for the speech and hearing impaired.  
-> 🤖 Converts sign language into text/audio using ML and computer vision.
+<br/>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ ARSENAL / TECH STACK ━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">🗡️ A R S E N A L</h2>
+
+<br/>
+
+<div align="center">
+
+**`> PRIMARY WEAPONS — Languages`**
+
+<br/>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,javascript&theme=dark" alt="Languages" />
+</a>
+
+<br/><br/>
+
+**`> VANGUARD — Frontend & UI`**
+
+<br/>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend" />
+</a>
+
+<br/><br/>
+
+**`> FORTIFICATIONS — Backend & Database`**
+
+<br/>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgresql&theme=dark" alt="Backend" />
+</a>
+
+<br/><br/>
+
+**`> RECON GEAR — Tools & Platforms`**
+
+<br/>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux&theme=dark" alt="Tools" />
+</a>
+
+<br/><br/>
+
+**`> EXPERIMENTAL DIVISION — AI / ML`**
+
+<br/>
+
+<a href="#">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="AI Core" />
+</a>
+&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="28" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28" alt="Pandas" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28" alt="NumPy" />
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="28" alt="OpenCV" />
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ MISSION REPORTS / PROJECTS ━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">📜 M I S S I O N &nbsp; R E P O R T S</h2>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                   ⚔️  CLASSIFIED OPERATIONS  ⚔️                       ║
+║           Real-world projects built to solve real problems           ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<!-- Project Cards: using manual styled markdown for reliability -->
+
+<table align="center">
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔇 A Silent Voice
+> **Status:** `🟡 In Development`
+
+Bridging communication for the speech & hearing impaired — converts sign language into text/audio using **ML & Computer Vision**.
+
+`Python` `OpenCV` `TensorFlow` `MediaPipe`
+
+</td>
+<td width="50%" valign="top">
 
 ### ⚖️ [JusticeAlly](https://justice-ally.vercel.app/)
-> 📜 Simplifies legal documents and predicts IPC relevance using ML.  
-> ⚙️ Assists users with categorized case analysis and legal recommendations.
+> **Status:** `🟢 Deployed`
 
+AI-powered legal assistant that simplifies complex legal documents and predicts **IPC section relevance** using ML.
 
-### 🖼️ [Image Encryptor](https://github.com/Abhinav-2312307/Image-Encryptor)
-> 🔒 A secure image encryption and decryption system using custom algorithms.  
-> 🧠 Protects sensitive visual data with pixel manipulation, hashing, and key-based decoding.
+`React` `Node.js` `ML` `NLP`
 
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🔒 [Image Encryptor](https://github.com/Abhinav-2312307/Image-Encryptor)
+> **Status:** `🟢 Complete`
+
+Secure image encryption & decryption system using **pixel manipulation, hashing, and key-based decoding**.
+
+`Python` `Cryptography` `PIL`
+
+</td>
+<td width="50%" valign="top">
 
 ### ✈️ [TravelAI](https://github.com/Abhinav-2312307/TravelAI)
-> 🌍 AI-powered travel recommendation engine for smart itinerary planning.  
-> 📌 Suggests destinations, routes, and budgets using NLP and real-time data analysis.
+> **Status:** `🟢 Complete`
 
+AI-powered travel recommendation engine for **smart itinerary planning** using NLP and real-time data analysis.
+
+`Python` `NLP` `REST API`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
 
 ### 🖨️ [PrintMyPagePSIT](https://print-my-page-psit.vercel.app/)
-> 🧾 A streamlined print-order system where students can upload documents, track orders, and pick up prints.  
-> 🔧 Built with Node.js, email API, and a clean frontend UI.
+> **Status:** `🟢 Deployed`
 
-### 🔭 [Map My PSIT](https://print-my-page-psit.vercel.app/)
-> 🚶‍♂️ Real-time campus navigation web app designed for PSIT students.  
-> 🧭 Features include geolocation, scaled vector maps, and building overlays.
+Campus print-order system — students upload documents, track orders, and pick up prints seamlessly.
 
-## 🌱 Currently Learning
-```ymal
-- 🇯🇵 Japanese Language (Beginner – JLPT N5 Level)
-- 🤖 Machine Learning & Deep Learning (scikit-learn, pandas, NumPy)
-- 🧠 AI Tools Integration (Text & Image Models)
-- 🎨 Advanced Tailwind CSS & Framer Motion for UI/UX
-- 🛰️ Geolocation & Real-time Map Scaling
-- 🗃️ MongoDB & SQL for Scalable Data Storage
-- 📬 Email APIs & Notification Systems
-- 🛠️ Backend with Node.js, Express, and API Security
-- 🔌 Prisma & RESTful API Structuring
-- 🎤 Public Speaking & Leadership Development
+`Node.js` `Express` `Email API`
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ Map My PSIT
+> **Status:** `🟡 In Development`
+
+Real-time campus navigation with **geolocation, scaled vector maps**, and building overlays for PSIT students.
+
+`JavaScript` `Leaflet` `GeoJSON`
+
+</td>
+</tr>
+
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ BATTLEFIELD METRICS / STATS ━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">📊 B A T T L E F I E L D &nbsp; M E T R I C S</h2>
+
+<br/>
+
+<!-- GitHub Stats + Streak side by side -->
+<!-- NOTE: github-readme-stats public instance can be intermittent.
+     If stats break, consider self-hosting: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" />
+    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" alt="GitHub Stats" />
+  </picture>
+  &nbsp;
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Abhinav-2312307&hide_border=true&background=0d1117&ring=E63946&fire=FF6B35&currStreakLabel=E63946&sideLabels=C9D1D9&currStreakNum=F1FAEE&sideNums=C9D1D9&dates=8B949E&stroke=1a1a2e" />
+    <img width="49%" src="https://streak-stats.demolab.com/?user=Abhinav-2312307&hide_border=true&background=0d1117&ring=E63946&fire=FF6B35&currStreakLabel=E63946&sideLabels=C9D1D9&currStreakNum=F1FAEE&sideNums=C9D1D9&dates=8B949E&stroke=1a1a2e" alt="GitHub Streak" />
+  </picture>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-2312307&bg_color=0d1117&color=C9D1D9&line=E63946&point=FF6B35&area=true&area_color=E63946&hide_border=true&custom_title=Deployment%20Activity%20Log" alt="Activity Graph" />
+</p>
+
+<!-- Top Languages -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=C9D1D9&langs_count=8" />
+    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+  </picture>
+</p>
+
+<!-- Trophies -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-2312307&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
+</p>
+
+<!-- ━━━━━━━━━━━━ 🐍 SNAKE ANIMATION ━━━━━━━━━━━━ -->
+<!-- This will work once the GitHub Action runs for the first time -->
+<h3 align="center">🐍 Contribution Snake</h3>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abhinav-2312307/Abhinav-2312307/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Abhinav-2312307/Abhinav-2312307/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Abhinav-2312307/Abhinav-2312307/output/github-snake.svg" width="100%" />
+  </picture>
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ LEETCODE / COMPETITIVE ━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">⚡ C O M B A T &nbsp; T R A I N I N G</h2>
+
+<br/>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/lucifer_debug?theme=dark&font=Fira+Code&ext=contest&border=0&radius=8" width="500" alt="LeetCode Stats" />
+</p>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ TRAINING ARC / LEARNING ━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">🧠 T R A I N I N G &nbsp; A R C</h2>
+
+<br/>
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║  Current training objectives and skill development operations      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
----
+</div>
 
-### 💻 Coding & Online Profiles
+<br/>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### ⚔️ Active Operations
+| Area | Focus |
+|:-----|:------|
+| 🤖 **ML / Deep Learning** | scikit-learn · pandas · NumPy · Model Training |
+| 🧠 **AI Integration** | Text & Image Generation Models |
+| 🎨 **UI / UX** | Advanced Tailwind CSS · Framer Motion |
+| 🗄️ **Databases** | MongoDB · SQL · Scalable Architecture |
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 Upcoming Expeditions
+| Area | Focus |
+|:-----|:------|
+| 🛰️ **Geolocation** | Real-time Map Scaling · Geo APIs |
+| 📡 **Notification Systems** | Email APIs · Push Notifications |
+| 🔐 **Security** | API Security · Auth Patterns |
+| 🔌 **Backend Mastery** | Prisma ORM · RESTful API Design |
+
+</td>
+</tr>
+</table>
 
 <p align="center">
-  <a href="https://leetcode.com/u/lucifer_debug/">
-    <img src="https://img.shields.io/badge/LeetCode-lucifer__debug-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode Profile" />
-  </a>
-  <a href="https://github.com/Abhinav-2312307">
-    <img src="https://img.shields.io/badge/GitHub-Abhinav--2312307-black?style=flat-square&logo=github" alt="GitHub Profile" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhinav-sahu-865a01297/">
-    <img src="https://img.shields.io/badge/LinkedIn-Abhinav%20Sahu-blue?style=flat-square&logo=linkedin" alt="LinkedIn Profile" />
-  </a>
-  <a href="https://abhinav-sahu-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-lightgrey?style=flat-square&logo=vercel" alt="Portfolio Website" />
-  </a>
+  <br/>
+  <img src="https://img.shields.io/badge/🇯🇵_Japanese_(JLPT_N5)-Learning-E63946?style=flat-square&labelColor=161b22" alt="Japanese" />&nbsp;
+  <img src="https://img.shields.io/badge/🎤_Public_Speaking-Developing-FF6B35?style=flat-square&labelColor=161b22" alt="Public Speaking" />&nbsp;
+  <img src="https://img.shields.io/badge/🏋️_Leadership-Growing-C9D1D9?style=flat-square&labelColor=161b22" alt="Leadership" />
 </p>
 
+<br/>
 
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 📊 GitHub Stats
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ ACHIEVEMENTS ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">🏆 A C H I E V E M E N T S &nbsp; U N L O C K E D</h2>
+
+<br/>
+
+<div align="center">
+
+```
+   ╔═══════════════════════════════════════════════════════════╗
+   ║  🥇  Rank 1 Winner — GDGoC Full Stack Challenge          ║
+   ║  👨💻  Junior Frontend Dev — Ignitia Web Team              ║
+   ║  🚀  6+ Projects deployed or in active development        ║
+   ║  🌐  Multiple live production apps serving real users      ║
+   ║  🧠  Active ML/AI researcher — building for accessibility ║
+   ║  🎌  Learning Japanese alongside code — JLPT N5           ║
+   ╚═══════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ CONNECT ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<h2 align="center">📡 E S T A B L I S H &nbsp; C O N T A C T</h2>
+
+<br/>
+
+<div align="center">
+
+*Open to collaborations, hackathons, open-source projects, and conversations that challenge the status quo.*
+
+<br/><br/>
+
+<a href="mailto:2k23.cs2312307@gmail.com">
+  <img src="https://img.shields.io/badge/📧_2k23.cs2312307@gmail.com-E63946?style=for-the-badge&labelColor=161b22" alt="Email" />
+</a>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/abhinav-sahu-865a01297/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="32" alt="LinkedIn" />
+</a>&nbsp;
+<a href="https://abhinav-sahu-portfolio.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-F1FAEE?style=for-the-badge&logo=vercel&logoColor=0d1117" height="32" alt="Portfolio" />
+</a>&nbsp;
+<a href="https://github.com/Abhinav-2312307">
+  <img src="https://img.shields.io/badge/GitHub-C9D1D9?style=for-the-badge&logo=github&logoColor=0d1117" height="32" alt="GitHub" />
+</a>&nbsp;
+<a href="https://leetcode.com/u/lucifer_debug/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=0d1117" height="32" alt="LeetCode" />
+</a>
+
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ VISITOR COUNTER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
+
+<br/>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&theme=dracula" alt="GitHub Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&theme=dark&count_private=true" width="48%" alt="GitHub Stats" />
-
+  <img src="https://count.getloli.com/get/@:Abhinav-2312307?theme=moebooru" alt="Visitor Counter" />
 </p>
 
+<br/>
 
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ CLOSING QUOTE ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
+<div align="center">
 
-📈 LeetCode Stats
-<p align="center"> <img src="https://leetcard.jacoblin.cool/lucifer_debug?theme=dark&font=Karla&ext=contest" /> </p>
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   「 Coding is the bridge between ideas and innovation                       ║
+║      — I'm here to build both. 」                                            ║
+║                                                                              ║
+║                                             — Abhinav Sahu                   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
+</div>
 
+<br/>
 
-📫 Contact Me
-📧 Email: 2k23.cs2312307@gmail.com
+<!-- ━━━━━━━━━━━━━━━━━━━━━━━━━━ FOOTER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ -->
 
-🏠 Location: Kanpur, Uttar Pradesh, India
-
-☁️ Portfolio: https://portfolio-abhinavsahu.vercel.app/
-
-Visitor ->
-
-![:Abhinav-2312307](https://count.getloli.com/get/@:Abhinav-2312307)
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Abhinav-2312307&label=Profile+Views&color=0e75b6&style=flat" alt="Abhinav-2312307" /> 
-</p>
-
-
-
-💬 “Coding is the bridge between ideas and innovation — I'm here to build both.”
-— Abhinav Sahu
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20for%20visiting!&fontAlign=50&fontAlignY=40&fontSize=30&fontColor=FFFFFF&animation=fadeIn&desc=Come%20Back%20Soon!&descSize=20&descAlign=50&descAlignY=70" />
-
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E63946,50:1a1a2e,100:0d1117&height=120&section=footer&fontSize=0" />
