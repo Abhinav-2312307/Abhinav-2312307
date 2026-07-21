@@ -123,8 +123,15 @@
 
 <br/>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,javascript&theme=dark" alt="Languages" />
+<p align="center">
+  <a href="https://isocpp.org/" target="_blank"><img src="https://techstack-generator.vercel.app/cpp-icon.svg" width="45" height="45" alt="C++" title="C++ (Animated)" /></a>&nbsp;&nbsp;
+  <a href="https://www.python.org/" target="_blank"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="45" height="45" alt="Python" title="Python (Animated)" /></a>&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://techstack-generator.vercel.app/js-icon.svg" width="45" height="45" alt="JavaScript" title="JavaScript (Animated)" /></a>&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://techstack-generator.vercel.app/ts-icon.svg" width="45" height="45" alt="TypeScript" title="TypeScript (Animated)" /></a>
+</p>
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,javascript,ts&theme=dark" alt="Languages" />
 </a>
 
 <br/><br/>
@@ -133,7 +140,11 @@
 
 <br/>
 
-<a href="#">
+<p align="center">
+  <a href="https://react.dev/" target="_blank"><img src="https://techstack-generator.vercel.app/react-icon.svg" width="45" height="45" alt="React" title="React (Animated)" /></a>
+</p>
+
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind&theme=dark" alt="Frontend" />
 </a>
 
@@ -143,8 +154,8 @@
 
 <br/>
 
-<a href="#">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgresql&theme=dark" alt="Backend" />
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,postgres&theme=dark" alt="Backend" />
 </a>
 
 <br/><br/>
@@ -153,7 +164,11 @@
 
 <br/>
 
-<a href="#">
+<p align="center">
+  <a href="https://github.com/" target="_blank"><img src="https://techstack-generator.vercel.app/github-icon.svg" width="45" height="45" alt="GitHub" title="GitHub (Animated)" /></a>
+</p>
+
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,linux&theme=dark" alt="Tools" />
 </a>
 
@@ -163,14 +178,14 @@
 
 <br/>
 
-<a href="#">
+<a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" alt="AI Core" />
 </a>
-&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" height="28" alt="scikit-learn" />
-<img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="28" alt="Pandas" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="28" alt="NumPy" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="28" alt="OpenCV" />
+<br/><br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" height="30" alt="scikit-learn" />&nbsp;
+<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="30" alt="Pandas" />&nbsp;
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" height="30" alt="NumPy" />&nbsp;
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="30" alt="OpenCV" />
 
 </div>
 
@@ -283,12 +298,10 @@ Real-time campus navigation with **geolocation, scaled vector maps**, and buildi
 <br/>
 
 <!-- GitHub Stats + Streak side by side -->
-<!-- NOTE: github-readme-stats public instance can be intermittent.
-     If stats break, consider self-hosting: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" alt="GitHub Stats" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinav-2312307&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" />
+    <img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Abhinav-2312307&show_icons=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=E63946&icon_color=E63946&text_color=C9D1D9&ring_color=E63946" alt="GitHub Stats" />
   </picture>
   &nbsp;
   <picture>
@@ -305,14 +318,14 @@ Real-time campus navigation with **geolocation, scaled vector maps**, and buildi
 <!-- Top Languages -->
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=C9D1D9&langs_count=8" />
-    <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=C9D1D9&langs_count=8" />
+    <img width="42%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&hide_border=true&bg_color=0d1117&title_color=E63946&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
   </picture>
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abhinav-2312307&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
+  <img src="https://github-profile-trophies.vercel.app/?username=Abhinav-2312307&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
 </p>
 
 <!-- ━━━━━━━━━━━━ 🐍 SNAKE ANIMATION ━━━━━━━━━━━━ -->
@@ -467,7 +480,7 @@ Real-time campus navigation with **geolocation, scaled vector maps**, and buildi
 <br/>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@:Abhinav-2312307?theme=moebooru" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=Abhinav-2312307&label=Profile+Views&color=E63946&style=for-the-badge&labelColor=0d1117" alt="Visitor Counter" />
 </p>
 
 <br/>
