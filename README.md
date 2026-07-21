@@ -423,10 +423,10 @@ Real-time campus navigation with **geolocation, scaled vector maps**, and buildi
 
 ```
    ╔═══════════════════════════════════════════════════════════╗
-   ║  🥇  Rank 1 Winner — GDGoC Full Stack Challenge          ║
-   ║  👨💻  Junior Frontend Dev — Ignitia Web Team              ║
+   ║  🥇  Rank 1 Winner — GDGoC Full Stack Challenge           ║
+   ║  👨  Junior Frontend Dev — Ignitia Web Team               ║
    ║  🚀  6+ Projects deployed or in active development        ║
-   ║  🌐  Multiple live production apps serving real users      ║
+   ║  🌐  Multiple live production apps serving real users     ║
    ║  🧠  Active ML/AI researcher — building for accessibility ║
    ║  🎌  Learning Japanese alongside code — JLPT N5           ║
    ╚═══════════════════════════════════════════════════════════╝
