@@ -1,7 +1,7 @@
 <!--
   Abhinav Sahu · GitHub Profile
-  Built as a compact proof-of-work page, not a badge museum.
-  Visual system: Obsidian / Bone / Signal Crimson.
+  Built as a dark fantasy field dossier, not a badge museum.
+  Visual system: Obsidian / Bone / Signal Crimson / Gilded Oath.
 -->
 
 <p align="center">
@@ -27,7 +27,7 @@
 
 <br />
 
-## `01 // MANIFESTO`
+## `01 // THE OATH`
 
 I build **full-stack products with an AI core**, especially where software meets an awkward real-world workflow. My favorite projects are useful before they are impressive: civic reporting, legal access, campus operations, travel assistance, and accessibility.
 
@@ -54,7 +54,7 @@ const abhinav = {
 
 <br />
 
-## `02 // SELECTED TRANSMISSIONS`
+## `02 // ARTIFACTS FROM THE JOURNEY`
 
 <table>
 <tr>
@@ -114,7 +114,7 @@ const abhinav = {
 
 <br />
 
-## `03 // OPERATING LOG`
+## `03 // THE CURRENT ARC`
 
 <p align="center">
   <img src="./assets/terminal.svg" width="100%" alt="Current operating log: building AI-native products, focusing on TypeScript, agents, and civic technology" />
@@ -122,7 +122,7 @@ const abhinav = {
 
 <br />
 
-## `04 // SYSTEM LOADOUT`
+## `04 // THE ARSENAL`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,python,cpp,react,nextjs,nodejs,express,fastapi,tailwind,mongodb,postgres,prisma,git,github,figma,vercel,linux&theme=dark&perline=9" alt="TypeScript, JavaScript, Python, C++, React, Next.js, Node.js, Express, FastAPI, Tailwind, MongoDB, PostgreSQL, Prisma, Git, GitHub, Figma, Vercel, and Linux" />
@@ -134,7 +134,7 @@ const abhinav = {
 
 <br />
 
-## `05 // TELEMETRY`
+## `05 // RECORDS OF THE CAMPAIGN`
 
 <p align="center">
   <picture>
@@ -170,7 +170,7 @@ const abhinav = {
 
 <br />
 
-## `06 // ESTABLISH CONTACT`
+## `06 // OPEN THE GATES`
 
 <p align="center">
   I like collaborations with a sharp problem, real users, and enough technical risk to be interesting.
