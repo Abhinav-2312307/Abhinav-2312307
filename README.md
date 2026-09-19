@@ -137,23 +137,13 @@ const abhinav = {
 ## `05 // RECORDS OF THE CAMPAIGN`
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=FF6B35&text_color=C9D1D9&ring_color=E63946" />
-    <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Abhinav-2312307&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=E63946&icon_color=FF6B35&text_color=C9D1D9&ring_color=E63946" alt="Abhinav's GitHub stats" />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=Abhinav-2312307&hide_border=true&background=0D1117&ring=E63946&fire=FF6B35&currStreakLabel=E63946&sideLabels=C9D1D9&currStreakNum=F1FAEE&sideNums=C9D1D9&dates=8B949E" />
-    <img width="49%" src="https://streak-stats.demolab.com?user=Abhinav-2312307&hide_border=true&background=0D1117&ring=E63946&fire=FF6B35&currStreakLabel=E63946&sideLabels=C9D1D9&currStreakNum=F1FAEE&sideNums=C9D1D9&dates=8B949E" alt="Abhinav's contribution streak" />
-  </picture>
+  <img src="./assets/campaign.svg" width="100%" alt="Local campaign records showing repositories, followers, active builds, and recent signal" />
 </p>
 
 <p align="center">
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinav-2312307&bg_color=0D1117&color=C9D1D9&line=E63946&point=FF6B35&area=true&area_color=5A101D&hide_border=true&custom_title=SHIP_LOG" alt="Abhinav's contribution activity graph" />
-</p>
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav-2312307&layout=compact&hide_border=true&bg_color=0D1117&title_color=E63946&text_color=C9D1D9&langs_count=8" alt="Abhinav's most used languages" />
-  <img width="47%" src="https://leetcard.jacoblin.cool/lucifer_debug?theme=dark&font=JetBrains%20Mono&ext=contest&border=0&radius=8" alt="Abhinav's LeetCode stats" />
+  <img src="https://img.shields.io/badge/32_PUBLIC_REPOSITORIES-E63946?style=flat-square&logo=github&logoColor=white" alt="32 public repositories" />
+  <img src="https://img.shields.io/badge/18_FOLLOWERS-D9BD79?style=flat-square&logo=github&logoColor=0D1117" alt="18 followers" />
+  <img src="https://img.shields.io/badge/04_SELECTED_BUILDS-FF6B35?style=flat-square&logo=vercel&logoColor=0D1117" alt="4 selected builds" />
 </p>
 
 <details>
@@ -167,8 +157,6 @@ const abhinav = {
   </picture>
 </p>
 </details>
-
-<br />
 
 ## `06 // OPEN THE GATES`
 
