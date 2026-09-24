@@ -178,3 +178,6 @@ const abhinav = {
   <sub><code>IDEAS → SYSTEMS → IMPACT</code></sub><br />
   <sub>Designed and built by Abhinav Sahu.</sub>
 </p>
+<p align="center">
+  <img src="https://count.getloli.com/get/@:Abhinav-2312307" />
+</p>
